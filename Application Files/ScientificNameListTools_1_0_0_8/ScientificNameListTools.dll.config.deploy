@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="ScientificNameListTools.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <ScientificNameListTools.Properties.Settings>
+            <setting name="HeaderRowMode" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="FooterRowMode" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="WhitespaceOptimization" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="TimesNewRoman" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="OmitSameGenus" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="BorderStyleMode" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="VerticalBorderMode" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="RemoveAuthors" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="IgnoreWithinUpperCategory" serializeAs="String">
+                <value>True</value>
+            </setting>
+        </ScientificNameListTools.Properties.Settings>
+    </userSettings>
+</configuration>
